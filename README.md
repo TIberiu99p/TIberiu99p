@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiberiu</h1>
 <h3 align="center">Enjoy learning new things and coding</h3>
-<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/aqrocks11/art/THE-8-BIT-EVOLUTION-OF-MEGA-MAN-gif-292157699">
-- 🔭 I’m currently working on **a trade application for one piece cards**
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/27b12f6695e7c184b7c00d38d5a3f1b3/tumblr_n6fg5588em1styzrqo1_500.gif">
+- 🔭 I’m currently working on ** trade application for one piece cards**
 
 - 🌱 I’m currently learning **kubernetes**
 
