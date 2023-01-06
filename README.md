@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiberiu</h1>
 <h3 align="center">Enjoy learning new things and coding</h3>
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dQI7VYlXIrzoVzMgGA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Capcom-dQI7VYlXIrzoVzMgGA">via GIPHY</a></p>
 - 🔭 I’m currently working on **a trade application for one piece cards**
 
 - 🌱 I’m currently learning **kubernetes**
