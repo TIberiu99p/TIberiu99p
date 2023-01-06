@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiberius</h1>
 <h3 align="center">Enjoy learning new things and coding</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/27b12f6695e7c184b7c00d38d5a3f1b3/tumblr_n6fg5588em1styzrqo1_500.gif">
-- 🔭 I’m currently working on ** trade application for one piece cards**
+- 🔭 I’m currently working on ** trade application for one piece cards and a program that gives a sketch as a start point for artists**
 
 - 🌱 I’m currently learning **kubernetes**
 
