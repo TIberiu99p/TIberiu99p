@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiberiu</h1>
 <h3 align="center">Enjoy learning new things and coding</h3>
-img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dQI7VYlXIrzoVzMgGA/giphy.gif"
+img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dQI7VYlXIrzoVzMgGA/giphy.gif">
 - 🔭 I’m currently working on **a trade application for one piece cards**
 
 - 🌱 I’m currently learning **kubernetes**
